@@ -1,7 +1,7 @@
 # Creative Making-Game "Witch" Helen
 
-## Team work
-Jiaxin Liang, Xu Qian, Yanzhang, Yifei Yang
+# YouTube Video Link：
+https://youtu.be/5qjObKgrsl4
 
 ## Game Identity
 
@@ -114,10 +114,11 @@ Mid-century vintage hand-painted, 2.5D
 
 ## Division of team members
 
+Yifei Yang: Main planning, Main Game code, Drawing assistance, arduino external assistance
 Jiaxin Liang: Main drawing, Code assistance, Planning assistance, arduino external assistance
 Qianxu: Main game code,Curatorial assistance, Sketching, arduino external assistance
 Zhang Yan: Physics engine design arduino part, Code assistance, Curatorial assistance, Drawing assistance
-Yifei Yang: Main planning, Main Game code, Drawing assistance, arduino external assistance
+
 
 
 
