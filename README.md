@@ -9,7 +9,7 @@ Jiaxin Liang, Xu Qian, Yanzhang, Yifei Yang
 
 ## Story
 
-![85a23983c2619b2da3bca0b976d87dfa](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/5ce5453f-c118-4b42-9866-5653716a00a5)
+![85a23983c2619b2da3bca0b976d87dfa](https://github.com/yanzhang22010/Helen/assets/119860662/57ac22cd-2a8e-43c1-a94e-e926d1733fa0)
 
 In the 15th century, a young girl named Helen, together with her parents and sister, led a tranquil life in a village. As they grew older, Helen and her sister's striking red hair and beauty began to attract attention and criticism within the village. The conspicuous red hair and beauty of Helen and her sister became the subject of discussions among the villagers. Unfortunately, it was during this period that a plague broke out in the village, and rumors from the city suggested a connection between the disease and witchcraft. Helen's sister was mistakenly accused of being a witch and subjected to cruel torture, ultimately being burned alive.
 
@@ -21,7 +21,7 @@ Finally, Helen crossed the forest and arrived at a land of enlightenment. There,
 
 ## Background
 
-![v2-3ed1ac6ff7c2530f3cd2b9cfd6a235de_1440w](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/625258e2-551d-4c2c-a287-c36e7bb4bfc4) 
+![v2-3ed1ac6ff7c2530f3cd2b9cfd6a235de_1440w](https://github.com/yanzhang22010/Helen/assets/119860662/04f07b37-e3e9-4933-93b9-85bd4520bd23)
 
 The origins of witchcraft can be traced back to ancient times, although written records from that period are scarce. However, in medieval Western countries, witches seemed to garner unprecedented attention. By the 15th century, Christianity had subjected "witches" to three centuries of persecution, considering them as the cause of disasters. Over the course of hundreds of years, thousands of women were indiscriminately labeled as "witches" and became targets of religious persecution. Many innocent and vulnerable women were unjustly accused of witchcraft based on a single word or a minor action, and were subjected to cruel and inexplicable forms of punishment, such as burning at the stake or hanging. Female victims were denied any right to defense or the opportunity to hire legal representation. The sole evidence against them was often false accusations and forced confessions. Such practices, which are now viewed as absurd, were commonplace in the ignorant Europe of the Middle Ages, where a single case could captivate an entire nation. In order to hunt witches, the Church published the infamous book "Malleus Maleficarum" or "The Hammer of Witches," which provided detailed descriptions of specific interrogation methods and effective techniques for successful framing. There were no prosecution procedures, no defense attorneys, and the accused "witches" were denied the opportunity to defend themselves. The charges listed against them appear laughable and absurd from a modern perspective. Countless "witches" suffered brutal torture that led to their deaths.
 
@@ -39,7 +39,7 @@ Through the game's presentation, we aim to deepen players' understanding of the 
 
 ## Gameplay
 
-![IMG_1133](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/b2ba1be9-16d0-402a-8c8b-4b8232401bbc)
+![IMG_1133](https://github.com/yanzhang22010/Helen/assets/119860662/8248b4c6-a80b-4ffe-9e68-771465956f36)
 
 1. Control the movement of the game character by tilting the glove back and forth, left and right.
 2. You need to bend your fingers to pick food to increase the amount of blood, and collect the forbidden book to obtain pieces of memories to increase the spiritual value.
@@ -51,11 +51,12 @@ Enemy behavior: move around food, attack when the character enters the range.
 
 ## Technology
 
-![IMG_8015(20230610-212530)](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/215af969-80d1-4d3e-99a2-9ca0a9d2de0f)
+![IMG_8015(20230610-212530)](https://github.com/yanzhang22010/Helen/assets/119860662/98657fc2-eab7-4bfb-8677-10d776c87c74)
 
-![IMG_8016(20230610-212941)](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/d4262c39-82d7-4522-9987-5ee9477f219f)
+![IMG_8016(20230610-212941)](https://github.com/yanzhang22010/Helen/assets/119860662/f8e02e50-bdf0-4243-a836-6683e430d884)
 
-![IMG_8017(20230610-213119)](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/803f435b-1a60-489c-b92a-2b25e192701d)
+![IMG_8017(20230610-213119)](https://github.com/yanzhang22010/Helen/assets/119860662/17aa82b3-96ac-483a-a52d-bc5e889abc80)
+
 
 On the technical side, we used Unity as the software platform for game development, which provides powerful tools and features to create high-quality game experiences.
 
@@ -69,9 +70,9 @@ Through the above technical choices and design, we are committed to creating a r
 
 ## Physics Engine
 
-![IMG_1072](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/3153325c-1b63-48c3-832e-b86f964dc785)
-![IMG_1119](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/d4faf464-f8ac-4bd5-bcaa-14a9c9e126e4)
+![IMG_1072](https://github.com/yanzhang22010/Helen/assets/119860662/6bee4067-0a8a-4f04-809e-84147b967d8f)
 
+![IMG_1119](https://github.com/yanzhang22010/Helen/assets/119860662/bb82d895-fbd1-4b49-a658-dc58a249ddbd)
 
 In order to better exercise the Arduino knowledge we previously learned through the course, we chose to use Arduino to create external devices to enhance the game experience. After screening multiple sensors and considering multiple perspectives such as game fit, playability and smooth operation, we finally chose to use the MPU6050 gyroscope to control the character's movement and the bend sensor to control the character's picking and attacking actions. These sensor devices are integrated into an interesting game glove.
 
@@ -89,27 +90,27 @@ Character design keywords medieval, countryside, young girl, adventure.
 
 ![向前走](https://github.com/yanzhang22010/Helen/assets/119860662/accab0b8-3f11-491f-ac0a-6de2971c72bc)
 
-![image](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/011c0fea-0144-4d09-9baf-592eac549d33)
+![image](https://github.com/yanzhang22010/Helen/assets/119860662/8278b36c-7619-49fa-9598-b9200a51c70e)
+
 
 ## Art style
 
 Mid-century vintage hand-painted, 2.5D
 
-![IMG_1177](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/af7547af-b382-41df-9fd5-c159baf30386)
-![IMG_1178](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/0f76c3c7-5157-48d0-9fef-b13dd1018cfa)
-![IMG_1179](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/342838c2-da1c-4cfd-b52a-4e5b5899a53f)
-![IMG_1181](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/6dbb0b97-0d7a-4703-8136-d6e40d7d6404)
+![IMG_1177](https://github.com/yanzhang22010/Helen/assets/119860662/a014d1c1-41dd-4597-9ee2-22f61d023598)
+![IMG_1178](https://github.com/yanzhang22010/Helen/assets/119860662/1970b002-f205-4094-996b-0977401a1180)
+![IMG_1179](https://github.com/yanzhang22010/Helen/assets/119860662/dd72d93d-4533-45f1-8ab7-72802b0eb1b7)
+![IMG_1181](https://github.com/yanzhang22010/Helen/assets/119860662/c29ff898-0a26-41f6-85f6-3ed99b1d06c8)
 
 ## Plant Monster Design
 
-![IMG_1150](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/1ab09926-157b-4d02-8791-6edca4084e14)
-
-![蜘蛛_死亡](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/ace4e4a5-106a-4332-ad3a-5154c9ba4c86)
-![攻击-兔](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/6c1f0cad-d3da-4304-ac1b-3dd8bbd5dcf9)
+![IMG_1150](https://github.com/yanzhang22010/Helen/assets/119860662/d6200510-04eb-4154-b9cf-4e1668a1af67)
+![攻击-兔](https://github.com/yanzhang22010/Helen/assets/119860662/188301b5-e17f-4497-9ab4-7bec25bc7bcd)
+![蜘蛛_死亡](https://github.com/yanzhang22010/Helen/assets/119860662/ed25d583-e9c0-4495-8024-2086002ba74c)
 
 ## scene design
 
-![IMG_7791](https://github.com/yanzhang22010/Creative-Making-Game-Witch-Helen-/assets/119860662/0248456e-a9dc-48bc-a415-2aa32eaf8f0e)
+![IMG_7791](https://github.com/yanzhang22010/Helen/assets/119860662/d6dea9c1-b964-40a5-bd02-f3aff931db1e)
 
 ## Division of team members
 
